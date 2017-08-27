@@ -29,3 +29,4 @@
     * `git update --init --recursive`
 12. Run premake5
     * `premake5 --game=server vs2017`
+    #maybe this works?
